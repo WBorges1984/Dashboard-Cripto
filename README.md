@@ -1,6 +1,6 @@
 # Dashboard Cripto
 
-Projeto realizando para vage de desenvolvedor da empresa Allintra.
+Projeto realizando para vaga de desenvolvedor.
 
 ## Configuração
 
@@ -8,13 +8,18 @@ Projeto realizando para vage de desenvolvedor da empresa Allintra.
    ```sh
    git clone https://github.com/WBorges1984/Dashboard-Cripto.git
    
-2. Instale as dependencias
+2. Instale as dependencias</br>
+   ```sh
    cd Dashboard-Cripto
+   ```
+   ```sh
    npm install
+   ```
 
 ## Executando o projeto
-
-npm run dev
+   ```sh
+   npm run dev
+   ```
 
 
 
