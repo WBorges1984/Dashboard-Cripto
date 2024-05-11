@@ -1,0 +1,31 @@
+.container-card{
+    margin: 10px;
+    padding: 20px 15px 15px 5px;
+    width: 210px;
+    height: 150px;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.headerCaption{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.cardBottom{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.change-red{
+    color: #ce1a1a;
+}
+
+.change-green{
+    color: #61c51e;
+}

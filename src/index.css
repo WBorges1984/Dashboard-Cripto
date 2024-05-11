@@ -1,0 +1,12 @@
+:root {
+  
+  font-family: Nunito, Arial, sans-serif;
+  background-color: #0F1625;
+  color: #FFF;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

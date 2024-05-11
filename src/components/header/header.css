@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    color: rgb(226, 31, 226);
+    font-size: 38px;
+    margin: 1rem;
+    font-family: 'Lexend';
+    font-weight: bold;
+}
+
+.text-degrade {
+    background-image: linear-gradient(to bottom, #D23B85, rgb(214, 2, 214), #D65F37);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    
+    /* Adicionado: */
+    -webkit-text-fill-color: transparent;
+}
+
+      
